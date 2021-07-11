@@ -23,7 +23,7 @@ Design: [Mergaite](https://cdn.discordapp.com/attachments/850245533838868480/850
 
 ## Authors
 
-[Rimantas](https://githubgcom/belauzas)  
+[Ne RimanTAS](https://githubgcom/belauzas)  
 
 
 
