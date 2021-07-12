@@ -3,8 +3,10 @@ body {
 
  } 
  header {
-     
- } 
+    display:  inline-block;
+    width: 800px;
+    background-color:yellow ;
+    } 
 
  img {
 
@@ -19,6 +21,9 @@ body {
  }
 
  main {
+    display:  inline-block;
+    width: 800px;
+    background-color:bisque; 
 
  }
 
