@@ -9,11 +9,13 @@ body {
     background-color:yellow ;
     } 
 
- img {
+ header > img {
+    float: left;
 
 
  }
  nav {
+    float: right;
 
  }
 
@@ -29,6 +31,10 @@ body {
  }
 
  div{
+    display: inline-block;
+    width: 45%;
+    float: left;
+
 
  }
 
@@ -40,6 +46,10 @@ body {
 
  }
 
- img{
+ main > img {
+    display: inline-block;
+    width: 50%;
+    float: right;
+    background-color: ;
 
  }
