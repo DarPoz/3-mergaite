@@ -5,6 +5,7 @@ body {
  header {
     display:  inline-block;
     width: 800px;
+    margin-left: calc(50% - 400px);
     background-color:yellow ;
     } 
 
@@ -23,8 +24,8 @@ body {
  main {
     display:  inline-block;
     width: 800px;
+    margin-left: calc((100% - 800px) / 2);
     background-color:bisque; 
-
  }
 
  div{
